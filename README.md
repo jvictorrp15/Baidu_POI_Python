@@ -23,8 +23,3 @@ Crawl the POI in the city through Baidu map API.
 ![image-20211117172514622](https://user-images.githubusercontent.com/71769312/142175449-294daf40-413a-43df-aa3a-8d99a203afa9.png)
 
 ![UXGOS$6WMD)`{XQ$8YK}7WU](https://user-images.githubusercontent.com/71769312/142175459-8f10d1c4-5c5d-4754-9fd5-d5ec58a79081.png)
-
-## *Author Name*
-
-<!--Remove the below lines and add yours -->
-[YiZhou Chen](https://github.com/geoyee)
